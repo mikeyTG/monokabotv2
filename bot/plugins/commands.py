@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG & @Mrk_YT
+# (c) @AlbertEinsteinTG & @Mrk_YT & @youtuberyt54355
 
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
@@ -68,7 +68,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔊 Bot Updates 🔊', url=f"{MT_BOT_UPDATES}"
+                                    '🔊 Bot Updates 🔊', url=f"{@mrgbotrepair}"
                                 )
                         ]
                     ]
@@ -87,7 +87,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Mo_TECH_YT"
+                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/youtuberyt54355"
                                 )
                         ]
                     ]
@@ -106,7 +106,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Mo_TECH_YT"
+                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/youtuberyt54355"
                                 )
                         ]
                     ]
@@ -125,7 +125,7 @@ async def start(bot, update):
         InlineKeyboardButton('🗣️Group', url=f'{MT_GROUP}'),
         InlineKeyboardButton('Channel🔊', url=f'{MT_CHANNEL}')
     ],[
-        InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/OTqZmADyOjU')
+        InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/1SBxsv_T_Jw')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -164,8 +164,8 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('👤 Mrk YT👤', url='https://t.me/MRK_YT'),
-        InlineKeyboardButton('Skp KP👤', url='https://t.me/Skp_Kp')
+        InlineKeyboardButton('👤 mikey👤', url='https://t.me/youtuberyt54355'),
+        InlineKeyboardButton('light👤', url='https://t.me/abhiabhisk')
     ],[
         InlineKeyboardButton('👤 AlbertEinstein 👤', url='https://t.me/AlbertEinsteinTG')
     ],[
