@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG @MRK_YT
+# (c) @AlbertEinsteinTG @youtuberyt54355
 
 class Translation(object):
     
@@ -42,7 +42,7 @@ class Translation(object):
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
+<b><a href="https://t.me/youtuberyt54355">© mikey</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
