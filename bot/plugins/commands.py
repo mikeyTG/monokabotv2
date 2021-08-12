@@ -62,7 +62,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼MAIN CHANNEL 👨‍💼', url="https://t.me/YOUTUBERYT54355"
+                                    '👨‍💼MAIN CHANNEL 👨‍📺  ', url="https://t.me/MALAYALIPEVERANU"
                                 )
                         ],
                         [
